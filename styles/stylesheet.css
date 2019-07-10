@@ -1,8 +1,66 @@
 html {
   background-image: url("https://img.freepik.com/free-photo/empty-save-texture-room-light_1258-175.jpg?size=626&ext=jpg");
-  background-size: cover;
+  background-size: contain;
 }
 
+h1 {
+  color: #0000FF;
+  font-style: oblique;
+  text-align: center;
+}
 h2 {
-  color: blue;
+  color: #0000FF;
+  font-style: oblique;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  font-style: normal;
+}
+ol {
+  color: white;
+  font-size: 18pt;
+}
+
+img {
+  border-style: solid;
+  border-color: yellow;
+  border-width: 10px;
+  background-color: white;
+}
+
+article {
+  border: 10px;
+  color: white;
+}
+
+footer {
+  color: #000000;
+  font-style: italic;
+  text-align: center;
+}
+
+.subtitle {
+  background-color: tomato;
+  padding: 5px;
+  color: white;
+}
+
+.mailme {
+  background-color: tomato;
+  padding: 5px;
+  color: yellow;
+}
+
+.linkstyle {
+  border-style: solid;
+  border-color: #FFA500;
+  border-width: 10px;
+  background-color: white;
+}
+
+.clickme {
+  font-size: 15pt;
+  font-style: italic;
 }
