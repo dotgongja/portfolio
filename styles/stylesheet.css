@@ -5,11 +5,13 @@ html {
 
 h1 {
   color: #0000FF;
+  font-family: 'Lato', sans-serif;
   font-style: oblique;
   text-align: center;
 }
 h2 {
   color: #0000FF;
+  font-family: 'Lato', sans-serif;
   font-style: oblique;
   text-align: center;
 }
@@ -19,6 +21,7 @@ h3 {
   font-style: normal;
 }
 ol {
+  font-family: 'Lato', sans-serif;
   color: white;
   font-size: 18pt;
 }
@@ -48,6 +51,7 @@ footer {
 }
 
 .mailme {
+  font-family: 'Crimson Text', serif;
   background-color: tomato;
   padding: 5px;
   color: yellow;
@@ -63,4 +67,8 @@ footer {
 .clickme {
   font-size: 15pt;
   font-style: italic;
+}
+
+.fa-palette {
+  color: red;
 }
