@@ -23,7 +23,7 @@ h3 {
 ol {
   font-family: 'Lato', sans-serif;
   color: white;
-  font-size: 18pt;
+  font-size: 15pt;
 }
 
 img {
@@ -103,4 +103,10 @@ footer {
   max-width: 500px;
   height: auto;
   margin: auto;
+}
+
+section {
+  color: white;
+  font-size: 20px;
+  transition: border 4s ease-in 1s;
 }
